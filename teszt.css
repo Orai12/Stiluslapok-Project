@@ -206,25 +206,20 @@
  {
     box-sizing: border-box;
 }
-
 body {
   margin: 0;
 }
-
-/* Style the header */
+/* head stílus */
 .header {
     background-color: #34A65F;
     padding: 20px;
     text-align: center;
 }
-
-/* Style the top navigation bar */
+/* navigációs sor felső beállítások */
 .topnav {
     overflow: hidden;
     background-color: #333;
 }
-
-/* Style the topnav links */
 .topnav a {
     float: left;
     display: block;
@@ -233,7 +228,6 @@ body {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 /* szint vált ha rajta az egér */
 .topnav a:hover {
     background-color: seagreen;
@@ -243,6 +237,7 @@ body {
     float: left;
     width: 33.33%;
     padding: 15px;
+    
 }
 .row:after {
     content: "";
@@ -252,4 +247,21 @@ body {
 p.round2 {
     border: 2px solid black;
     border-radius: 8px;
+}
+(max-width:600px) {
+    .column {
+        width: 100%;
+    }
+}
+p.two {
+    border-style: solid;
+    border-color: green;
+} 
+td {
+    text-align: left;
+    padding: 8px;
+}
+th {
+    text-align: center;
+    padding: 10px;
 }
