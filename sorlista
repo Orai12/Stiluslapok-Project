@@ -23,8 +23,8 @@
                            <ul>
             <li class="has-sub"><a href="#Lists">Felsorolások</a>
       <ul>
-        <li> <a href="sorlista.html">Sorszámozott lista</a> </li>
-        <li><a href="fellista.html">Felsorolás lista</a></li>
+        <li> <a href="#">Sorszámozott lista</a> </li>
+        <li><a href="#">Felsorolás lista</a></li>
       </ul>
             <li class="has-sub"><a href="#Opacity">Átlátszatlanság</a>
       <ul>
@@ -32,8 +32,8 @@
         <li><a href="#">Submenu 2.2</a></li>
       </ul>
     </li>
-        <li><a href="linkek.html">Linkek</a></li>
-        <li ><a href="gombok.html">Gombok</a></li> 
+        <li><a href="#Links">Linkek</a></li>
+        <li ><a href="Buttons.html">Gombok</a></li> 
         <li class="has-sub"><a href="#Animation">Animáció</a>
       <ul>
         <li><a href="#">Submenu 3.1</a></li>
